@@ -17,9 +17,5 @@
 - **Real-Time Crypto Anomaly Detection:** Scalable streaming architecture with **Kafka** and **Spark Structured Streaming** for real-time ingestion and anomaly detection.
 - **Ames Housing Feature Engineering:** Advanced EDA and imputation with **Ridge & Lasso Regression** benchmarks to improve model interpretability.
 
-### 📊 GitHub Stats
-![Alperen's GitHub stats](https://github-readme-stats.vercel.app/api?username=solid1010&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solid1010&layout=compact&theme=tokyonight)
-
 ---
 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/alperen-sa%C4%9Flam-476a38309/) | [Email](mailto:alperensaglam177@gmail.com)
